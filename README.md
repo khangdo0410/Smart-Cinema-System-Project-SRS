@@ -11,7 +11,6 @@ Smart Cinema System is a web-based application for a single cinema. Customers ca
 
 The Software Requirements Specification includes the requirements and software design sections.
 
-[View the project document](./Smart_Cinema_System_SRS.pdf
 ## Development Timeline
 
 | Time | Tasks |
