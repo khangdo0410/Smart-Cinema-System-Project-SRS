@@ -14,7 +14,7 @@ Smart Cinema System is a web-based application for a single cinema. Customers ca
 The updated Software Requirements Specification includes the requirements, software design, and Assignment 3 test plan.
 
 - *Smart Cinema System SRS.pdf:* The complete SRS, including the Test Plan section.
-- *Smart_Cinema_Test_Cases_CS250.xlsx:* Ten sample test cases with prerequisites, test steps, and expected results.
+- *Smart Cinema Test Cases.xlsx:* Ten sample test cases with prerequisites, test steps, and expected results.
 
 ## Test Plan Overview
 
