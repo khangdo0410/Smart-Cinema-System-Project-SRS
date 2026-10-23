@@ -42,5 +42,3 @@ Each testing level has two test sets. The test cases are planned and have not be
 - *Phu Pham:* Payment processing, refunds, QR ticket generation, ticket validation, and email services.
 
 All members contribute to system testing, reviewing each other’s work, and updating the project documentation.
-- *Smart Cinema System SRS.pdf:* The complete SRS, including the Test Plan section.
-- *Smart_Cinema_Test_Cases_CS250.xlsx:* Ten sample test cases with prerequisites, test steps, and expected results.
