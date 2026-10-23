@@ -16,6 +16,16 @@ The updated Software Requirements Specification includes the requirements, softw
 - *Smart Cinema System SRS.pdf:* The complete SRS, including the Test Plan section.
 - *Smart_Cinema_Test_Cases_CS250.xlsx:* Ten sample test cases with prerequisites, test steps, and expected results.
 
+## Test Plan Overview
+
+The test plan includes six test sets and ten sample test cases:
+
+- *Unit testing:* Account role checks and booking cancellation rules.
+- *Integration/functional testing:* Seat reservations and payment-to-ticket processing.
+- *System testing:* The complete purchase and admission flow, and the cancellation and refund flow.
+
+Each testing level has two test sets. The test cases are planned and have not been executed, so their status is marked as *Not Run*.
+
 ## Development Timeline
 
 | Time | Tasks |
