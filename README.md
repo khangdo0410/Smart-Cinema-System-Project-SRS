@@ -1,6 +1,4 @@
 # Smart Cinema System
-## Project Documents
-
 CS 250 – Introduction to Software Systems  
 Group 13: Khang Do, Minh Nguyen, and Phu Pham
 The updated Software Requirements Specification includes the requirements, software design, and Assignment 3 test plan.
