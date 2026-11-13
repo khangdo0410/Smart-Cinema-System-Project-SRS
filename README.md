@@ -27,18 +27,18 @@ Each testing level has two test sets. The test cases are planned and have not be
 
 ## Development Timeline
 
-## Architecture and Data Management
-
-The system is designed to use one shared PostgreSQL database. Tables are organized into four groups: accounts, catalog, reservations, and finance.
-
-The updated SRS explains how the system manages bookings, payments, tickets, data protection, and backups. It also compares the chosen design with other database options.
-
 | Time | Tasks |
 |---|---|
 | Week 1 | Finalize software architecture, UML diagrams, and database design. |
 | Weeks 2–3 | Develop user accounts, movie listings, showtimes, and seat reservations. |
 | Weeks 4–5 | Develop payment processing, refunds, QR tickets, and ticket validation. |
 | Week 6 | Test the complete system, fix errors, and review the final documentation. |
+
+## Architecture and Data Management
+
+The system is designed to use one shared PostgreSQL database. Tables are organized into four groups: accounts, catalog, reservations, and finance.
+
+The updated SRS explains how the system manages bookings, payments, tickets, data protection, and backups. It also compares the chosen design with other database options.
 
 ## Team Responsibilities
 
